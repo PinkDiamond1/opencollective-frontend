@@ -1,4 +1,4 @@
-FROM node:14.17
+FROM node:14.19.1
 
 WORKDIR /usr/src/frontend
 
